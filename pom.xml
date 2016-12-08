@@ -5,7 +5,7 @@
   <artifactId>testApp</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Spring Hibernate Tutorial</name>
+  <name>TestApp</name>
   <url>http://maven.apache.org</url>
   <properties>
 	 <spring.version>4.0.5.RELEASE</spring.version>
