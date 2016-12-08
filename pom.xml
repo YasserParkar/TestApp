@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tcs</groupId>
-  <artifactId>spring_hibernate_tut</artifactId>
+  <artifactId>testApp</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>Spring Hibernate Tutorial</name>
@@ -12,7 +12,7 @@
 	 <hibernate.version>4.3.5.Final</hibernate.version>
 	 <log4j.version>1.2.17</log4j.version>
 	 <jdk.version>1.7</jdk.version>
-	 <context.path>spring_hibernate_tut</context.path>
+	 <context.path>testApp</context.path>
   </properties>
   <dependencies>
     <dependency>
