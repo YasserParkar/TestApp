@@ -6,10 +6,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>TestApp</title>
 </head>
 <body>
-
+	
+  <h1>TestApp</h1>	
+  	
   <div style="color: teal; font-size: 30px">Registration Form</div>
 
 
