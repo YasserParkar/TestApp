@@ -10,7 +10,8 @@
 </head>
 <body>
 	
-  <h1>TestApp</h1>	
+  <h1>TestApp</h1>
+  <h3>Demo application</h3>	
   	
   <div style="color: teal; font-size: 30px">Registration Form</div>
 
